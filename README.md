@@ -4,7 +4,8 @@ Rawan Alamoud
 
 ## ABSTRACT
 The purpose of this project is to build a classification model that helps the organization predict whether the employee will leave the organization or continue to work for it. I worked with a human resources dataset provided by Kaggle website. First, I started to explore the dataset, then I used Matplotlib and Seaborn tools to visualize the data to help identify the features that led the employees to leave, after that I used Logistic regression and k-nearest neighbors model to predict the employees from the test set that are most likely to leave and then I evaluated each model.
-DESIGN
+
+## DESIGN
 This project helps to figure out which feature has a direct and clear impact on employee leaving and predict whether an employee with a specific profile may leave or not, in order to provide the necessary support to retain the employees and minimize the negative impact on the organization.
 
 ## DATA
