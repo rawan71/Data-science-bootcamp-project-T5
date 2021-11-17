@@ -14,7 +14,7 @@ The dataset contains 14,999 data points with 10 features. The features I am usin
 ## ALGORITHMS
 *Feature Engineering*
 
-Converting categorical features into numerical features 
+Converting categorical features into numerical features. 
 
 *Models* 
 
@@ -26,12 +26,14 @@ The entire dataset of 14,999 records was split into 80/20 train vs. test. Below 
    
 **Logistic regression**
 - Accuracy: 0.758  
+- MSE: 0.242
 - F1: 0.85 retained, 0.31 left
 - Precision: 0.79 retained, 0.47 left
 - Recall: 0.92 retained, 0.23 left
 
 **KNN**
 - Accuracy: 0.9273  
+- MSE: 0.072
 - F1: 0.95 retained, 0.85 left
 - Precision: 0.97 retained, 0.81 left
 - Recall: 0.94 retained, 0.90 left	
